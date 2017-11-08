@@ -1,5 +1,5 @@
 //	write.c
-//	stephane mathieu
+//	backpackcod3r
 
 #include <stdio.h>
 #include <string.h>

@@ -1,5 +1,5 @@
 //	read.c
-//	stephane
+//	backpackcod3r
 //	03/11/17
 
 //	standard c include headers

@@ -1,5 +1,6 @@
 // create.c
-// stephane mathieu
+// backpackcod3r
+// 08/11/17
 //
 // CREATE
 // - request user input

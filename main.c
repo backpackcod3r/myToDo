@@ -1,5 +1,5 @@
 //	myToDo.c App
-//	stephane - 06/11/2017
+//	backpackcod3r - 06/11/2017
 //
 //	main.c
 
